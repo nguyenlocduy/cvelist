@@ -1,3 +1,5 @@
+![](https://memegenerator.net/img/instances/79066083.jpg)
+
 # CVE Automation Working Group Git Pilot
 
 The [CVE Automation Working
